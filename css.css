@@ -1,0 +1,99 @@
+body {
+  background-color: rgba(255, 255, 255, 0.691);
+}
+
+.cabecalho {
+    font-size: 18px;
+    margin-left: 300px;
+    text-align: center;
+    padding: 16px;
+    border-radius: 5px;
+    text-decoration: none;
+    background-color: rgb(255, 255, 255);
+    /* margin: auto; */
+    display: inline-block;
+     margin-right: -200px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
+
+.header1 {
+    padding: 2px;
+    padding-top: 2px;
+    margin-top: -20px;
+    margin-left: -20px;
+    margin-right: -20px;
+    background-color: rgba(36, 197, 247, 0.994);
+}
+
+.paragrafo1 {
+    font-size: 30px;
+    justify-content: center;
+    padding: 25px;
+    color: rgba(78, 78, 78, 0.666);
+    background-color: rgba(0, 0, 0, 0.176);
+    text-align: center;
+    border-radius: 15px;
+
+}
+
+a:link {
+    color:  rgba(158, 119, 255, 0.622);
+}
+
+a:hover {
+    color: rgba(4, 149, 140, 0.672);
+}
+
+a:active {
+    background-color: white;
+}
+
+h2 {
+    margin-top: 135px;
+    color: rgba(36, 197, 247, 0.994);
+    text-align: center;
+}
+
+img {
+    width: 155px;
+    padding: 18px;
+    padding-bottom: 35px;
+    background-color: rgba(0, 115, 255, 0.786);
+    border-radius: 15px;
+    height: 200px;
+    object-fit: cover;
+    margin-left: 85px;
+    display: inline-block;
+}
+
+/* .aSaiba {
+    text-align: left;
+    padding: 20px;
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: -20px;
+    
+} */
+
+.paragrafo2 {
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 110px;
+    margin-top: -25px;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+
+.homemaranha {
+    font-size: 13px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 130px;
+    margin-top: -25px;
+    display: inline-block;
+    margin-bottom: 15px;
+}
